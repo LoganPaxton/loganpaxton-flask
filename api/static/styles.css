@@ -3,3 +3,8 @@ body {
   background-color: rgb(75,75,75);
   color: #e6e6e6;
 }
+
+a {
+  text-decoration: none;
+  color: #e6e6e6;
+}
